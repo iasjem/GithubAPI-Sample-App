@@ -6,6 +6,7 @@ target 'GithubAPI App' do
   use_frameworks!
     pod 'RxSwift',    '~> 4.0'
     pod 'RxCocoa',    '~> 4.0'
+	pod 'Alamofire', '~> 4.7'
 
   # Pods for GithubAPI App
 
